@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\bin\Debug\LuyenTapNhapXuatCB.exe.config
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\bin\Debug\LuyenTapNhapXuatCB.exe
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\bin\Debug\LuyenTapNhapXuatCB.pdb
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\obj\Debug\LuyenTapNhapXuatCB.exe
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\obj\Debug\LuyenTapNhapXuatCB.pdb
+D:\VS_2015\LearnCSharp\LuyenTapNhapXuatCB\LuyenTapNhapXuatCB\obj\Debug\LuyenTapNhapXuatCB.csprojResolveAssemblyReference.cache

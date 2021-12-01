@@ -1,0 +1,10 @@
+D:\VS_2015\LearnCSharp\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\VS_2015\LearnCSharp\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VS_2015\LearnCSharp\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.frmMain.resources
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\VS_2015\LearnCSharp\Calculator\Calculator\obj\Debug\Calculator.SinhVienThucHien.resources

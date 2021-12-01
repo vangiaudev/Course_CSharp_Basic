@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\bin\Debug\VongLapForeach.exe.config
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\bin\Debug\VongLapForeach.exe
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\bin\Debug\VongLapForeach.pdb
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\obj\Debug\VongLapForeach.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\obj\Debug\VongLapForeach.exe
+D:\VS_2015\LearnCSharp\VongLapForeach\VongLapForeach\obj\Debug\VongLapForeach.pdb

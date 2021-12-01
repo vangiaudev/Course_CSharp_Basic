@@ -1,0 +1,15 @@
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe.config
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Form1.resources
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.exe
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.pdb

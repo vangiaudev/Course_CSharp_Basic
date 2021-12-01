@@ -1,0 +1,10 @@
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\bin\Debug\ThanhCongCuToolbox.exe.config
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\bin\Debug\ThanhCongCuToolbox.exe
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\bin\Debug\ThanhCongCuToolbox.pdb
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.Form1.resources
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.frmHocTaboder.resources
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.Properties.Resources.resources
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.csproj.GenerateResource.Cache
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.exe
+D:\VS_2015\LearnCSharp\ThanhCongCuToolbox\ThanhCongCuToolbox\obj\Debug\ThanhCongCuToolbox.pdb

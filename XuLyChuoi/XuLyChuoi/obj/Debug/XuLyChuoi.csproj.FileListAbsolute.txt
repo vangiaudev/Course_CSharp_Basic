@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe.config
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.exe
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\bin\Debug\XuLyChuoi.pdb
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.exe
+D:\VS_2015\LearnCSharp\XuLyChuoi\XuLyChuoi\obj\Debug\XuLyChuoi.pdb

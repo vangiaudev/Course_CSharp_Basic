@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DaHinhCS.NhanVien" BaseTypeListCollapsed="true">
+    <Position X="30" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>NhanVien.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DaHinhCS.SinhVien" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="33.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>SinhVien.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DaHinhCS.HinhChuNhat" Collapsed="true">
+    <Position X="32.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAQAAAAAAAABQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhChuNhat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DaHinhCS.HinhHoc" Collapsed="true">
+    <Position X="28.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DaHinhCS.HinhTron" Collapsed="true">
+    <Position X="28.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhTron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DaHinhCS.HinhVuong" Collapsed="true">
+    <Position X="32.5" Y="10.75" Width="1.5" />
+    <InheritanceLine Type="DaHinhCS.HinhChuNhat" FixedToPoint="true">
+      <Path>
+        <Point X="33.25" Y="10.062" />
+        <Point X="33.25" Y="10.622" />
+        <Point X="34.878" Y="10.622" />
+        <Point X="34.878" Y="11.441" />
+        <Point X="34" Y="11.441" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEQAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HinhVuong.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DaHinhCS.Program" Collapsed="true">
+    <Position X="35" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAgAAAAAAAggAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DaHinhCS.ILamViec" Collapsed="true">
+    <Position X="29.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>ILamViec.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

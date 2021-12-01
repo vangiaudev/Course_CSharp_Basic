@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\bin\Debug\NhapXuatCoBan.exe.config
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\bin\Debug\NhapXuatCoBan.exe
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\bin\Debug\NhapXuatCoBan.pdb
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\obj\Debug\NhapXuatCoBan.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\obj\Debug\NhapXuatCoBan.exe
+D:\VS_2015\LearnCSharp\NhapXuatCoBan\NhapXuatCoBan\obj\Debug\NhapXuatCoBan.pdb

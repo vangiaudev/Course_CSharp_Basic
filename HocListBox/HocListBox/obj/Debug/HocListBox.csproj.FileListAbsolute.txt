@@ -1,0 +1,10 @@
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\bin\Debug\HocListBox.exe.config
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\bin\Debug\HocListBox.exe
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\bin\Debug\HocListBox.pdb
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.Form1.resources
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.Properties.Resources.resources
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.csproj.GenerateResource.Cache
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.exe
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.pdb
+D:\VS_2015\LearnCSharp\HocListBox\HocListBox\obj\Debug\HocListBox.frmSinhVien.resources

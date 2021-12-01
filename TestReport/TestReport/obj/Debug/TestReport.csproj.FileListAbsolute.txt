@@ -1,0 +1,12 @@
+D:\VS_2015\LearnCSharp\TestReport\TestReport\bin\Debug\TestReport.exe.config
+D:\VS_2015\LearnCSharp\TestReport\TestReport\bin\Debug\TestReport.exe
+D:\VS_2015\LearnCSharp\TestReport\TestReport\bin\Debug\TestReport.pdb
+D:\VS_2015\LearnCSharp\TestReport\TestReport\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.Form1.resources
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.Properties.Resources.resources
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.csproj.GenerateResource.Cache
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\RdlCompile.cache
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\RdlCompile.compiled
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.exe
+D:\VS_2015\LearnCSharp\TestReport\TestReport\obj\Debug\TestReport.pdb

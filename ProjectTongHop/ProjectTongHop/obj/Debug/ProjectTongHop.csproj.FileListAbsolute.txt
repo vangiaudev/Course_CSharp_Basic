@@ -1,0 +1,5 @@
+D:\VS_2015\LearnCSharp\ProjectTongHop\ProjectTongHop\bin\Debug\ProjectTongHop.exe.config
+D:\VS_2015\LearnCSharp\ProjectTongHop\ProjectTongHop\bin\Debug\ProjectTongHop.exe
+D:\VS_2015\LearnCSharp\ProjectTongHop\ProjectTongHop\bin\Debug\ProjectTongHop.pdb
+D:\VS_2015\LearnCSharp\ProjectTongHop\ProjectTongHop\obj\Debug\ProjectTongHop.exe
+D:\VS_2015\LearnCSharp\ProjectTongHop\ProjectTongHop\obj\Debug\ProjectTongHop.pdb

@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\bin\Debug\DaHinhCS.exe.config
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\bin\Debug\DaHinhCS.exe
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\bin\Debug\DaHinhCS.pdb
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\obj\Debug\DaHinhCS.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\obj\Debug\DaHinhCS.exe
+D:\VS_2015\LearnCSharp\DaHinhCS\DaHinhCS\obj\Debug\DaHinhCS.pdb

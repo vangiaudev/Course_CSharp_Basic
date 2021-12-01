@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\bin\Debug\XuLyLoiBietLe.exe.config
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\bin\Debug\XuLyLoiBietLe.exe
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\bin\Debug\XuLyLoiBietLe.pdb
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\obj\Debug\XuLyLoiBietLe.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\obj\Debug\XuLyLoiBietLe.exe
+D:\VS_2015\LearnCSharp\XuLyLoiBietLe\XuLyLoiBietLe\obj\Debug\XuLyLoiBietLe.pdb

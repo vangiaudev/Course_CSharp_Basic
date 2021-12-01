@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\Bien\Bien\bin\Debug\Bien.exe.config
+D:\VS_2015\LearnCSharp\Bien\Bien\bin\Debug\Bien.exe
+D:\VS_2015\LearnCSharp\Bien\Bien\bin\Debug\Bien.pdb
+D:\VS_2015\LearnCSharp\Bien\Bien\obj\Debug\Bien.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\Bien\Bien\obj\Debug\Bien.exe
+D:\VS_2015\LearnCSharp\Bien\Bien\obj\Debug\Bien.pdb

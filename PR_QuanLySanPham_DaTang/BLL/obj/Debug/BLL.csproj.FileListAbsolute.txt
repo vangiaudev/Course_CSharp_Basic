@@ -1,0 +1,9 @@
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.pdb

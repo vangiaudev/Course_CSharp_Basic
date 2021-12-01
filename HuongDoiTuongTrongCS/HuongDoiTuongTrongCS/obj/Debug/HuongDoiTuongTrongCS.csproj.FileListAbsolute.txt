@@ -1,0 +1,6 @@
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\bin\Debug\HuongDoiTuongTrongCS.exe.config
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\obj\Debug\HuongDoiTuongTrongCS.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\bin\Debug\HuongDoiTuongTrongCS.exe
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\bin\Debug\HuongDoiTuongTrongCS.pdb
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\obj\Debug\HuongDoiTuongTrongCS.exe
+D:\VS_2015\LearnCSharp\HuongDoiTuongTrongCS\HuongDoiTuongTrongCS\obj\Debug\HuongDoiTuongTrongCS.pdb

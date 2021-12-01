@@ -1,0 +1,5 @@
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.pdb
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.dll
+D:\VS_2015\LearnCSharp\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.pdb
